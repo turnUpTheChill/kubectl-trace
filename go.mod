@@ -1,4 +1,4 @@
-module github.com/iovisor/kubectl-trace
+module github.com/turnUpTheChill/kubectl-trace
 
 go 1.15
 
